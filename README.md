@@ -41,7 +41,7 @@ Incident Commander shows all three end-to-end.
 **Requirements:** Docker Desktop, Python 3.11+, Node 18+.
 
 ```bash
-git clone https://github.com/S2800-0/incident-commander.git
+git clone https://github.com/nourseen6/incident-commander.git
 cd incident-commander
 pip install -e .
 ```
